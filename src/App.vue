@@ -108,6 +108,24 @@ Service Oriented
 We always provide high quality trekking or tour services for our clients as per their requirement for individual or group travellers.
 Responsible
             </li>
+            <h6>
+              <b-link>Local Experts</b-link>
+            </h6>
+            <li>
+Experienced agency for trekking, tour, climbing & mojor travel service in Nepal is local Nepalese agency own by local experts.</li>
+            <h6>
+              <b-link>Eco Friendly</b-link>
+            </h6>
+            <li>
+We operate all trips to be aware on environmental issues which helps to maintain sustainable eco-tourism and purity of environment.</li>
+            <h6>
+              <b-link>Service Oriented</b-link>
+            </h6>
+            <li>
+We always provide high quality trekking or tour services for our clients as per their requirement for individual or group travellers.</li>
+            <h6>
+              <b-link>Responsible</b-link>
+            </h6>
           </div>
           <div style="padding-top:30px;">
               <div>
